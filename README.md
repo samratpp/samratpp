@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samratpp
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on desigining projects, UI/ UX, or even react
+- 📫 How to reach me: Mailto: samratpandey46@gmail.com
